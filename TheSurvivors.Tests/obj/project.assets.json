@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProiectColectiv\\StudJobzz\\TheSurvivors\\TheSurvivors.Tests\\TheSurvivors.Tests.csproj",
+      "projectUniqueName": "E:\\ProiectColectiv\\StudJobb-Clone\\StudJobzz\\TheSurvivors.Tests\\TheSurvivors.Tests.csproj",
       "projectName": "TheSurvivors.Tests",
-      "projectPath": "E:\\ProiectColectiv\\StudJobzz\\TheSurvivors\\TheSurvivors.Tests\\TheSurvivors.Tests.csproj",
+      "projectPath": "E:\\ProiectColectiv\\StudJobb-Clone\\StudJobzz\\TheSurvivors.Tests\\TheSurvivors.Tests.csproj",
       "packagesPath": "C:\\Users\\M.Alex\\.nuget\\packages\\",
-      "outputPath": "E:\\ProiectColectiv\\StudJobzz\\TheSurvivors\\TheSurvivors.Tests\\obj\\",
+      "outputPath": "E:\\ProiectColectiv\\StudJobb-Clone\\StudJobzz\\TheSurvivors.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
