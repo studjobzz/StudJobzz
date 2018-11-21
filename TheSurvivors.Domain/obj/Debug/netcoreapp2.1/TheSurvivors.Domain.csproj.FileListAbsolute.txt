@@ -34,3 +34,12 @@ E:\ProiectColectiv\StudJobb-Clone\StudJobzz\TheSurvivors.Domain\obj\Debug\netcor
 E:\ProiectColectiv\StudJobb-Clone\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.AssemblyInfo.cs
 E:\ProiectColectiv\StudJobb-Clone\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.dll
 E:\ProiectColectiv\StudJobb-Clone\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.pdb
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\bin\Debug\netcoreapp2.1\TheSurvivors.Domain.deps.json
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\bin\Debug\netcoreapp2.1\TheSurvivors.Domain.dll
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\bin\Debug\netcoreapp2.1\TheSurvivors.Domain.pdb
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.csprojAssemblyReference.cache
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.csproj.CoreCompileInputs.cache
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.AssemblyInfoInputs.cache
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.AssemblyInfo.cs
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.dll
+D:\StudJobzz\StudJobzz\TheSurvivors.Domain\obj\Debug\netcoreapp2.1\TheSurvivors.Domain.pdb

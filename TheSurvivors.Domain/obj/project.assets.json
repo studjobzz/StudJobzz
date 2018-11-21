@@ -6734,23 +6734,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\M.Alex\\.nuget\\packages\\": {},
+    "C:\\Users\\alexandrumoldovan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProiectColectiv\\StudJobb-Clone\\StudJobzz\\TheSurvivors.Domain\\TheSurvivors.Domain.csproj",
+      "projectUniqueName": "D:\\StudJobzz\\StudJobzz\\TheSurvivors.Domain\\TheSurvivors.Domain.csproj",
       "projectName": "TheSurvivors.Domain",
-      "projectPath": "E:\\ProiectColectiv\\StudJobb-Clone\\StudJobzz\\TheSurvivors.Domain\\TheSurvivors.Domain.csproj",
-      "packagesPath": "C:\\Users\\M.Alex\\.nuget\\packages\\",
-      "outputPath": "E:\\ProiectColectiv\\StudJobb-Clone\\StudJobzz\\TheSurvivors.Domain\\obj\\",
+      "projectPath": "D:\\StudJobzz\\StudJobzz\\TheSurvivors.Domain\\TheSurvivors.Domain.csproj",
+      "packagesPath": "C:\\Users\\alexandrumoldovan\\.nuget\\packages\\",
+      "outputPath": "D:\\StudJobzz\\StudJobzz\\TheSurvivors.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\M.Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexandrumoldovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
